@@ -70,8 +70,6 @@ st.markdown("""
         font-weight: bold;
         margin: 20px 0;
     }
-    
-    /* Style for info boxes */
     /* Style for info boxes */
     .info-box {
         padding: 15px;
