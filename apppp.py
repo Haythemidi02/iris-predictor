@@ -72,11 +72,15 @@ st.markdown("""
     }
     
     /* Style for info boxes */
+    /* Style for info boxes */
     .info-box {
         padding: 15px;
         border-radius: 5px;
-        background-color: #f0f2f6;
+        background-color: #e3f2fd;  /* Light blue background */
+        border-left: 4px solid #1f77b4;  /* Blue left border */
         margin: 10px 0;
+        color: #1a1a1a;  /* Dark text */
+        font-size: 1rem;
     }
     </style>
 """, unsafe_allow_html=True)
